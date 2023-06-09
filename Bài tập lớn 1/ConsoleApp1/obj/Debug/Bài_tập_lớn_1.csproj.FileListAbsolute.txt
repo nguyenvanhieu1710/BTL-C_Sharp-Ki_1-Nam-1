@@ -1,0 +1,8 @@
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\obj\Debug\Bài_tập_lớn_1.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\obj\Debug\Bài_tập_lớn_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\obj\Debug\Bài_tập_lớn_1.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\NGUYEN VAN HIEU\Source\Repos\Bài tập lớn 1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
