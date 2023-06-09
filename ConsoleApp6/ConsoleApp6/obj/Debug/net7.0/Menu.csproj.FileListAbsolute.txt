@@ -1,0 +1,15 @@
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\Menu.exe
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\Menu.deps.json
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\Menu.runtimeconfig.json
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\Menu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\bin\Debug\net7.0\Menu.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.csproj.AssemblyReference.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.AssemblyInfoInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.AssemblyInfo.cs
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\refint\Menu.dll
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.pdb
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\Menu.genruntimeconfig.cache
+C:\Users\NGUYEN VAN HIEU\Source\Repos\ConsoleApp6\ConsoleApp6\obj\Debug\net7.0\ref\Menu.dll
